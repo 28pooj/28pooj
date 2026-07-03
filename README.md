@@ -83,18 +83,43 @@ Passionate about building scalable web applications, solving real-world problems
 
 # 📌 Featured Projects
 
+### 👥 Candidate Data Transformation Intelligence Engine
+
+🔗 **Repository:** [Candidate Data Transformation Intelligence Engine](https://github.com/28pooj/Candidate-Data-Transformation-Intelligence-Engine)
+
+A Java-based data transformation application that consolidates candidate information from multiple sources into a standardized format. The system performs data validation, normalization, duplicate detection, and generates structured outputs for efficient downstream processing.
+
+**Tech Stack:** Java • Spring Boot • Maven • JSON • REST APIs • Git
+
+---
+
 ### ⚖️ Digital Court Hearing Management System
 
-A role-based web application for scheduling and managing virtual court hearings using **React.js**, **Spring Boot**, **MySQL**, and **MongoDB**.
+🔗 **Repository:** [Digital Court Hearing Management System](https://github.com/28pooj/Digital-Court-Hearing-Management-System)
+
+A role-based full-stack web application that streamlines court hearing scheduling and case management. The platform enables secure access for judges, lawyers, clerks, and users while supporting virtual hearings and efficient workflow management.
+
+**Tech Stack:** React.js • Spring Boot • MySQL • MongoDB • Tailwind CSS • SCSS
+
+---
 
 ### 💼 Employee Travel Reimbursement & Expense Claim System
 
-A Java web application that streamlines employee travel reimbursement and expense claim processing using **Servlets**, **JSP**, **JDBC**, and **MySQL**.
+🔗 **Repository:** [Employee Travel Reimbursement & Expense Claim System](https://github.com/28pooj/Employee-Travel-Reimbursement-and-Expense-Claim-System)
+
+A Java web application that automates employee travel reimbursement and expense claim management. The system allows users to submit travel expenses, monitor claim status, and supports efficient approval workflows with secure database integration.
+
+**Tech Stack:** Java • Servlets • JSP • JDBC • MySQL
+
+---
 
 ### 💄 Makeup Static Website
 
-A responsive static website built using **HTML**, **CSS**, and **Bootstrap**.
+🔗 **Repository:** [Makeup Static Website](https://github.com/28pooj/Makeup-Static-Website)
 
+A responsive static website designed to showcase makeup products with a clean, user-friendly interface and consistent experience across devices.
+
+**Tech Stack:** HTML • CSS • Bootstrap
 ---
 
 
